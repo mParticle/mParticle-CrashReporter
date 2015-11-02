@@ -1,0 +1,7 @@
+pod "mParticle-CrashReporter", :path => "../mParticle-CrashReporter.podspec"
+
+target "Demo" do
+end
+
+target "DemoTests" do
+end
