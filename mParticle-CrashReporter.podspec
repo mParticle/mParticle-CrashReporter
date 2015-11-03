@@ -10,7 +10,8 @@ Pod::Spec.new do |s|
 
     s.homepage                = "https://www.plcrashreporter.org"
     s.license                 = { :type => 'MIT' }
-    s.authors                 = { "Plausible Labs Cooperative, Inc.": "contact@plausible.coop", "mParticle" => "support@mparticle.com" }
+    s.authors                 = { "Plausible Labs Cooperative, Inc." => "contact@plausible.coop", 
+                                  "mParticle" => "support@mparticle.com" }
     s.source                  = { :git => "https://github.com/mParticle/mParticle-CrashReporter.git", :tag => s.version.to_s }
     s.platform                = :ios, '7.0'
     s.ios.vendored_frameworks = 'Frameworks/mParticle-CrashReporter.framework'
