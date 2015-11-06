@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
     s.name                    = "mParticle-CrashReporter"
-    s.version                 = "1.2.1"
+    s.version                 = "1.2.2"
     s.summary                 = "mParticle CrashReporter"
 
     s.description             = <<-DESC
