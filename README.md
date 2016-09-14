@@ -2,20 +2,20 @@
 
 # mParticle CrashReporter
 
-This is a fork of [PLCrashReporter](https://www.plcrashreporter.org) compiled and customized to work with the [mParticle iOS SDK](https://github.com/mParticle/mParticle-iOS-SDK). The framework is used as an optional dependency (subspec).
+This is a fork of [PLCrashReporter](https://www.plcrashreporter.org) compiled and customized to work with the [mParticle Apple SDK](https://github.com/mParticle/mParticle-Apple-SDK). The framework is used as an optional dependency (subspec).
 
-## Installation 
+## Installation
 
-When using the [mParticle iOS SDK](https://github.com/mParticle/mParticle-iOS-SDK) you can choose to include all subspecs
+When using the [mParticle Apple SDK](https://github.com/mParticle/mParticle-Apple-SDK) you can choose to include all subspecs
 
 ```ruby
-pod 'mParticle-iOS-SDK', '~> 5'
+pod 'mParticle-Apple-SDK'
 ```
 
 Or you can pick and choose the configuration. If Crash Reporting is among your choices:
 
 ```ruby
-pod 'mParticle-iOS-SDK/CrashReporter'
+pod 'mParticle-Apple-SDK/CrashReporter'
 ```
 
 ## Documentation
