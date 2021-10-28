@@ -1,4 +1,7 @@
-<img src="http://static.mparticle.com/sdk/logo.svg" width="280">
+<img src="https://static.mparticle.com/sdk/logo.svg" width="280">
+
+# Deprecated
+This repo is archived since our recent Apple SDKs have been updated to rely on the default PLCrashReporter.
 
 # mParticle CrashReporter
 
