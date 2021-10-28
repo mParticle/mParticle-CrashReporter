@@ -1,4 +1,7 @@
-<img src="http://static.mparticle.com/sdk/logo.svg" width="280">
+<img src="https://static.mparticle.com/sdk/logo.svg" width="280">
+
+# Deprecated
+This repo has been archived - the latest Apple SDK integrates with the standard [PLCrashReporter](https://github.com/microsoft/plcrashreporter) library. [Navigate to the mParticle docs site](https://docs.mparticle.com/developers/sdk/ios/error-and-exception-tracking/#crash-reporting) for more information on configuring crash reporting.
 
 # mParticle CrashReporter
 
